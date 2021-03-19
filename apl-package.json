@@ -1,0 +1,1 @@
+{  api: "BaasSpace",  assets: "./assets",  description: "Experimental Tools to add 2 numbers",  group: "BaasWare",  io: 1,  ml: 1,  name: "tatSample",  project_url: "https://github.com/mbaas2/tatSample",  source: "BaasSpace",  tags: "arithmetic,additions,plus,calculation",  version: "1.0.0",  wx: 0,}
